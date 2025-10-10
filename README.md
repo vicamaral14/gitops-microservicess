@@ -101,6 +101,10 @@ Em seguida, acesse o frontend da aplicação no navegador:
 🔗 http://localhost:8081
 
 ````
+<img width="1347" height="888" alt="argo" src="https://github.com/user-attachments/assets/f1014875-722a-4aa4-837c-da964af5e04a" />
+
+<img width="1501" height="842" alt="site" src="https://github.com/user-attachments/assets/3f34b4f1-6425-4ac5-9f62-193b8844dc40" />
+
 
 ## **✅ Entregas Esperadas**
 
